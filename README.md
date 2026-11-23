@@ -1,8 +1,16 @@
 # Lenovo-KeyboardTestTool
+
+
 联想键盘测试工具
+
+
+
+
 一、运行环境
 - Windows 10 / Windows 11（32 位、64 位）
 - Windows 10 PE（x86 与 x64 PE 均可）
+
+
 二、使用说明
 操作
 效果
@@ -21,6 +29,8 @@
 F11
 全屏 / 还原（全屏中按 Esc 也可退出）
 颜色图例：浅灰=未测试，绿=已触发，橙=按下瞬间，红橙闪烁=长按/卡键。
+
+
 三、目录结构
 keyboard-tool/
 ├─ src/
